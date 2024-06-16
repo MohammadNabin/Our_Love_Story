@@ -1,0 +1,47 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fff;
+    color: #333;
+}
+
+.navbar {
+    background-color: #ff6666;
+}
+
+.navbar .nav-link {
+    color: #fff !important;
+}
+
+.header {
+    background-color: #ffcccc;
+    padding: 60px 0;
+    color: #fff;
+}
+
+.header h1 {
+    font-size: 3em;
+    color: #fff;
+}
+
+.header p {
+    font-size: 1.2em;
+    color: #fff;
+}
+
+.content {
+    padding: 40px 0;
+}
+
+.footer {
+    background-color: #ff6666;
+    color: #fff;
+    padding: 20px 0;
+}
+
+h2 {
+    color: #ff6666;
+}
+
+p {
+    color: #555;
+}
